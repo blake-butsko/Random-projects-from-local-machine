@@ -1,0 +1,5 @@
+this is a test of a plain text file: what it looks like when you open it,
+if it all has to be on one line
+if there 5d55/,.\][=-)(*&^%$#@!)] are any restricted characters
+
+and if you can skip lines
